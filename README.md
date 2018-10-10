@@ -1,7 +1,7 @@
 # DelphiUIAutomation
 Delphi classes that wrap the [MS UIAutomation library](https://msdn.microsoft.com/en-us/library/vstudio/ms753388(v=vs.100).aspx).
 
-DelphiUIAutomation is a framework for automating rich client applications based on Win32 (and specifically tested with Delphi XE5). It is written in Delphi XE5 and it requires no use of scripting languages.
+DelphiUIAutomation is a framework for automating rich client applications based on Win32 (and specifically tested with Delphi XE5 and above). It is written in Delphi and it requires no use of scripting languages.
 
 Tests and automation programs using DelphiUIAutomation can be written with Delphi and used in any testing framework available to Delphi.
 

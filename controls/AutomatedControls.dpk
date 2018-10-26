@@ -40,7 +40,8 @@ contains
   AutomatedStaticText in 'AutomatedStaticText.pas',
   AutomatedCustomPanel in 'AutomatedCustomPanel.pas',
   AutomatedButton in 'AutomatedButton.pas',
-  AutomatedStringGridItem in 'AutomatedStringGridItem.pas';
+  AutomatedStringGridItem in 'AutomatedStringGridItem.pas',
+  AutomatedExpandCollapsePanel in 'AutomatedExpandCollapsePanel.pas';
 
 end.
 

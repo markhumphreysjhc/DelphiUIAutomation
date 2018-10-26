@@ -102,7 +102,8 @@ begin
   result := S_OK;
   pRetval := nil;
 
-  if (patternID = UIA_ValuePatternID) then
+  if (patternID = UIA_ValuePatternID) or
+     (patternID = UIA_ExpandCollapsePatternId) then
   begin
     pRetVal := self;
   end;
